@@ -1,0 +1,29 @@
+.elementor-kit-7{--e-global-color-primary:#CCAF66;--e-global-color-secondary:#2D4A3A;--e-global-color-text:#4B4435;--e-global-color-accent:#928975;--e-global-color-1caeb46:#3C3A40;--e-global-color-d08a6fe:#6A676F;--e-global-color-1c8689a:#98979B;--e-global-color-04fd819:#CCCBCD;--e-global-color-6fe082e:#F5F5F6;--e-global-color-d9f9db6:#4A6958;--e-global-color-eed3beb:#7B9A88;--e-global-color-7c43069:#9AABA2;--e-global-color-30dc894:#CCD6D1;--e-global-color-9ed14f0:#D1F2DC;--e-global-color-ee8283e:#EBEDEC;--e-global-color-4966dc0:#B09E77;--e-global-color-ae9d5fa:#EAD6A4;--e-global-color-26ac963:#FFFFFF00;--e-global-color-93e2fdc:#FFFFFF;--e-global-color-8fa1507:#000000;--e-global-typography-primary-font-family:"Summer Festival";--e-global-typography-primary-font-size:70px;--e-global-typography-primary-font-weight:400;--e-global-typography-primary-line-height:0.8em;--e-global-typography-secondary-font-family:"Summer Festival";--e-global-typography-secondary-font-size:50px;--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-line-height:0.8em;--e-global-typography-text-font-family:"Avenir Next";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.6em;--e-global-typography-accent-font-family:"Crimson Pro";--e-global-typography-accent-font-size:17px;--e-global-typography-accent-font-weight:400;--e-global-typography-accent-text-transform:uppercase;--e-global-typography-accent-line-height:1.2em;--e-global-typography-accent-letter-spacing:4px;--e-global-typography-9caebcc-font-family:"Avenir Next";--e-global-typography-9caebcc-font-size:14px;--e-global-typography-9caebcc-font-weight:400;--e-global-typography-9caebcc-letter-spacing:0.25px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-kit-7{--e-global-typography-primary-font-size:65px;--e-global-typography-secondary-font-size:45px;--e-global-typography-text-font-size:17px;--e-global-typography-accent-font-size:16px;--e-global-typography-9caebcc-font-size:13px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-7{--e-global-typography-primary-font-size:56px;--e-global-typography-secondary-font-size:40px;--e-global-typography-text-font-size:16px;--e-global-typography-accent-font-size:15px;--e-global-typography-9caebcc-font-size:13px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */html, body {
+    overflow-x: hidden !important;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Summer Festival';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../summerfestival.woff2') format('woff2'),
+		url('../../summerfestival.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avenir Next';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../avenir-next-regular.woff2') format('woff2'),
+		url('../../avenir-next-regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Avenir Next';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../avenir-next-bold.woff2') format('woff2'),
+		url('../../avenir-next-bold.woff') format('woff');
+}
+/* End Custom Fonts CSS */
